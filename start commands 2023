@@ -1,0 +1,1 @@
+-tickrate 128 +fps_max 400 -nohltv -fullscreen -forcenovsync +mat_queue_mode 2  +cl_forcepreload 1 +r_dynamic 0 -nocrashdialog  -console -limitvsconst   -language b +mat_disable_fancy_blending 1 -novid -no joy -nod3d9ex  +exec autoexec2019  -noaafonts  
